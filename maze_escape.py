@@ -1,5 +1,4 @@
 import pygame
-import math
 from maze import generate_maze
 from bfs import bfs
 from utils import draw_maze
