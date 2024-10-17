@@ -44,3 +44,10 @@ The game and its graphical interface are implemented in `maze_escape.py` and `ut
    - If stuck, press the spacebar to reveal the optimal path (press again to hide it).
 
 Enjoy the game!
+
+### Group Members
+
+- Beatriz Martin
+- Luis Infante
+- Maximiliano Martin
+- Gonzalo Nicolas
